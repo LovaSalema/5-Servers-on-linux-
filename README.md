@@ -1,2 +1,5 @@
-# 5-Servers-on-linux-
-Nginx-Samba-NFS-Apache-Vsftpd
+* [Apache](https://github.com/LovaSalema/Apache)
+* [FTP](https://github.com/LovaSalema/Install-FTP-using-VSFTPD)
+* [NFS](https://github.com/LovaSalema/NFS/)
+* [Nginx](https://github.com/LovaSalema/Nginx)
+* [Samba](https://github.com/LovaSalema/Samba)
